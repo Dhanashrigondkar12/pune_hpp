@@ -1,7 +1,9 @@
 print('Exploratory Data Analysis')
 
-print('Hello World!!!')
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+
+from sklearn.linear_model import LinearRgression
+linear_model = LinearRgression
