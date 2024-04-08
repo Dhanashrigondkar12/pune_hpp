@@ -8,3 +8,4 @@ log_clf = LogisticRegression()
 
 adb_clf = AdaBoostClassifier()
 linear_Reg = LinearRegression
+linear_reg.fit(x_train, y_train)
